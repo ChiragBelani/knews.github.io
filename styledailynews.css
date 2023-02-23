@@ -3,13 +3,14 @@
 *::after {
   box-sizing: border-box;
   
+  
 }
 
 html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgba(105, 66, 66, 0);
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -24,7 +25,7 @@ body {
   line-height: 1.5;
   color: #9A9DA2;
   text-align: left;
-  background-color:grey;
+  background-color:#111111;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
